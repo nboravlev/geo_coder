@@ -6,7 +6,7 @@ Scraping text data from sites, parsing geodata from Yandex-Geocoder.
 Также реализована созможность отрисовки координат на карте для визуальной проверки корректности парсинга. 
 
 <div id="map" align="center">
-  <img src="[https://komarev.com/ghpvc/?username=nboravlev&style=flat-square&color=blue](https://github.com/nboravlev/geo_coder/blob/main/изображение_2023-07-30_122847890.png)" alt=""/>
+  <img src="https://github.com/nboravlev/geo_coder/blob/main/изображение_2023-07-30_122847890.png" alt=""/>
 </div>
 
 
